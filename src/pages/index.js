@@ -45,7 +45,11 @@ export default function Home({ allPostsData }) {
             </Link> -
             <Link href="/sitemap.xml">
                 <a>{' '}Sitemap XML</a>
+            </Link> -
+            <Link href="/bootstrap-example">
+                <a>{' '}Bootstrap page</a>
             </Link>
+
         </section>
     </Layout>
   )
