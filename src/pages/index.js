@@ -54,6 +54,9 @@ export default function Home({ allPostsData }) {
             </Link> -
             <Link href="/swr-example">
                 <a>{' '}Swr page</a>
+            </Link> -
+            <Link href="/swr-infinite">
+                <a>{' '}Swr Infinite</a>
             </Link>
 
         </section>
