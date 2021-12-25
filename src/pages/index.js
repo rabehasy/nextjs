@@ -51,6 +51,9 @@ export default function Home({ allPostsData }) {
             </Link> -
             <Link href="/fontawesome-example">
                 <a>{' '}Fontawesome page</a>
+            </Link> -
+            <Link href="/swr-example">
+                <a>{' '}Swr page</a>
             </Link>
 
         </section>
