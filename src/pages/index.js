@@ -48,6 +48,9 @@ export default function Home({ allPostsData }) {
             </Link> -
             <Link href="/bootstrap-example">
                 <a>{' '}Bootstrap page</a>
+            </Link> -
+            <Link href="/fontawesome-example">
+                <a>{' '}Fontawesome page</a>
             </Link>
 
         </section>
